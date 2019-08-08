@@ -1,2 +1,4 @@
 # hello-world
-The first project for github
+
+self Introduction
+I love big data and now I am learning python,so welcome to communicate with me about these.
