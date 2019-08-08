@@ -1,3 +1,4 @@
 # hello-world
-The first project for github
-I'm Han Ning,come from shandong,china.
+
+self Introduction
+I love big data and now I am learning python,so welcome to communicate with me about these.
